@@ -1,0 +1,5 @@
+# LICENSE: Apache License 2.0 (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: CYBERGENETICS_MONOLITH_CB404_HD
+
+# Построен на стандартной библиотеке sys и time.
+# Максимальная стерильность инфосферы, 0% внешних зависимостей.
